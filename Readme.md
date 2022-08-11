@@ -15,13 +15,13 @@ I created responsive time-boxes which can help users to create a personal schedu
 > INDEX.HTML
 
 # Website link
-https://github.com/dmxtech/Coding-Quiz
+https://github.com/dmxtech/Work-Day-Scheduler
 
-https://dmxtech.github.io/Coding-Quiz/
+https://dmxtech.github.io/Work-Day-Scheduler/
 
 # screenshot link
 ## Mock-Up
-https://snipboard.io/EUI6Wh.jpg
+https://snipboard.io/ZW28Kw.jpg
 
 assets\Coding Quiz.gif
 
