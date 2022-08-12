@@ -67,9 +67,9 @@ function currenttime() {
    //Assign colors to time block
     $(".time-block").each(function () {
         
-    var blockhr = parseInt($(this).attr("id").split("hour")[1]);
+    var blockhr = parseInt($(this).attr("id").split("hr")[1]);
     
-    console.log( blockhr + currenthr);
+    console.log( blockhr, currenthr);
 
         //use the correct class for the time moment
         if (blockhr < currenthr) {
